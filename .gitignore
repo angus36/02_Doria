@@ -1,10 +1,15 @@
+# Never commit raw workflow exports containing live IDs, pins, or credentials
+*raw*.json
+*private*.json
+*backup*.json
+*credentials*.json
+*secret*.json
+*execution*.json
 .env
 .env.*
 !.env.example
-*.secret.json
-*.private.json
-*.credentials.json
-*.execution.json
-*.log
 .DS_Store
-02_朵莉雅.json
+*.log
+*.zip
+
+# Keep the reviewed public workflow under workflows/

@@ -1,0 +1,20 @@
+{
+  "release": "v0.2.0",
+  "workflow_name": "02_朵莉雅",
+  "nodes": 84,
+  "connection_sources": 73,
+  "counts": {
+    "credential_refs_removed": 40,
+    "spreadsheet_document_refs_replaced": 17,
+    "spreadsheet_tab_refs_cleared": 17,
+    "webhook_ids_removed": 2,
+    "gmail_address_replaced": 1,
+    "personalized_prompt_examples_generalized": 1,
+    "line_user_id_replaced": 1,
+    "pinned_nodes_removed": 1,
+    "workflow_environment_metadata_removed": 3,
+    "mcp_exposure_disabled": 1
+  },
+  "static_scan": "passed",
+  "output_sha256": "2c5277fb46ada0bff94403e0c30f0524487bceca469f5288923ce6da46b65f46"
+}
