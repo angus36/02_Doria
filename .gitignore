@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.secret.json
+*.private.json
+*.credentials.json
+*.execution.json
+*.log
+.DS_Store
+02_朵莉雅.json
